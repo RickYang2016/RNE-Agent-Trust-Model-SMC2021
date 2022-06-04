@@ -31,9 +31,13 @@ Comparing with the natural intelligent agent, when the artificial intelligence (
 
 ## Numerical Evaluation
 ### Experiment Setting
+We design a robot-aided urban search and rescue (USAR) mission to implement and illustrate the heterogeneous multi-robot grouping concept and corresponding algorithms. The mission is to retrieve (or rescue) as many resources (e.g., victims) as possible from the task area where the resources are present. In our scenarios, a set of robots will be available. Each robot is classified as one of the following: Carrier, Supplier, and Observer. Each type of robot has a specific role and functionality. Multiple robots cooperate to fulfill this rescue mission within a limited time. When they form a group, there must be robots from each of these three categories, making the group heterogeneous in terms of functionalities.
+
 <div align = center>
     <img src="https://github.com/RickYang2016/RNE-Agent-Trust-Model-SMC2021/blob/main/figures/REN_Trust.png" height="240" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.png" height="240" alt="Hopper-V2 3SABC Video"/>
 </div>
+
+Supposing we have two tasks in our USAR mission, which means that the entire group needs to divide into two subgroups fulfilling the corresponding task. These two tasks have different difficulty levels - easy and hard. Compared to the easy task, the hard task has more obstacles (debris) and radioactive sources in the disaster area, which means that agents might cost more energy avoiding obstacles and more HP resisting radiation emitting from radioactive resources. Besides, agents will spend more time and energy executing the challenging task because of the longer distance.
 
 ### Demonstration
 The simulation of two heterogeneous robot teams cooperative achieving tasks in USAR with Unity:
