@@ -21,7 +21,7 @@ Similar to the information entropy, we define the needs entropy as the differenc
 </div>
 
 <div align = center>
-<img src="http://latex.codecogs.com/svg.latex?w_k)"/>
+<img src="http://latex.codecogs.com/svg.latex?\sum_{k=1}^{j} (n_{1k/2k} \cdot w_k)"/>
 </div>
 
 > Note: Please check the [paper](https://ieeexplore.ieee.org/abstract/document/9659187) for more details about the definitions of Trust between Agent and Groups and Trust between Groups.
