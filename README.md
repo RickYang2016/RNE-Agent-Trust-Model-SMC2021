@@ -9,7 +9,16 @@ Cooperation in multi-agent and multi-robot systems can help agents build various
 Comparing with the natural intelligent agent, when the artificial intelligence (AI) agent becomes more advanced and smart, it also represents more complex, multilayered, and diverse needs in evolution such as individual security, health, friendship, love, respect, recognition, and so forth. When we consider intelligent agents, like robots, working as a team or cooperating with human beings, organizing their needs building certain reliable and stable relationships such as trust is a precondition for robot-robot and human-robot collaboration in complex and uncertain environments
 
 ## Numerical Evaluation
+### Experiment Setting
 
+
+### Demonstration
+> The simulation of two heterogeneous robot teams cooperative achieving tasks in USAR with Unity:
+    <div align = center>
+    <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.png" height="225" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.gif" height="225" alt="Hopper-V2 3SABC Video"/>
+    </div>
+
+### Summary
 
 
 
