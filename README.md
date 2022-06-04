@@ -10,6 +10,7 @@ Similar to the information entropy, we define the needs entropy as the differenc
 <img src="http://latex.codecogs.com/svg.latex? Supposing~the~needs'~vectors~of~R_1~and~R_2~are~N_{R_1}(n_{11},~\dots,~n_{1j})~and~N_{R_2}(n_{21},~\dots,~n_{2j}),~where"/>
 <img src="http://latex.codecogs.com/svg.latex? j~is~the~number~of~specific~needs~(categories)~in~the~needs~space.~Then,~through~the~corresponding~"/>
 <img src="http://latex.codecogs.com/svg.latex? weight~vector~W(w_1,~\dots,~w_j),~we~get~the~needs'~distribution~of~two~agents~are~D_{R_1}(d_{11},~\dots,~d_{1j})~and"/>
+<img src="http://latex.codecogs.com/svg.latex? D_{R_2}(d_{21},~\dots,~d_{2j})~respectively.~We~can~present~the~RNE~based~Trust~value~from~R_1~to~R_2~as~below."/>
 <img src="http://latex.codecogs.com/svg.latex? Supposing~the~needs'~vectors~of~R_1~and~R_2~are~N_{R_1}(n_{11},~\dots,~n_{1j})~and~N_{R_2}(n_{21},~\dots,~n_{2j}),~where~j~is~the~number~of~specific~needs~(categories)~in~the~needs~space.~Then,~through~the~corresponding~weight~vector~W(w_1,~\dots,~w_j),~we~get~the~needs'~distribution~of~two~agents~are~D_{R_1}(d_{11},~\dots,~d_{1j})~and~D_{R_2}(d_{21},~\dots,~d_{2j})~respectively.~We~can~present~the~RNE~based~Trust~value~from~R_1~to~R_2~as~below.~Here,~d_{1k}~and~d_{2k}~are~calculated~as~below.~(j,~k~\in~Z^+) "/>
 
 <div align = center>
