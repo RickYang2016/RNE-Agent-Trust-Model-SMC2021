@@ -20,7 +20,7 @@ Similar to the information entropy, we define the needs entropy as the differenc
 <img src="http://latex.codecogs.com/svg.latex?\mathop{\mathbb{T}(R_1||R_2)} = \sum_{k=1}^{j} D_{R_{1_k}} \cdot \log \frac{D_{R_{1_k}}}{D_{R_{2_k}}}"/>
 </div>
 
-> Note: The more details about Trust between Agent and Groups and Trust between Groups please check the [paper](https://ieeexplore.ieee.org/abstract/document/9659187).
+> Note: Please check the [paper](https://ieeexplore.ieee.org/abstract/document/9659187) for more details about <span style="color:red;">Trust between Agent</span> and Groups and Trust between Groups.
 
 Comparing with the natural intelligent agent, when the artificial intelligence (AI) agent becomes more advanced and smart, it also represents more complex, multilayered, and diverse needs in evolution such as individual security, health, friendship, love, respect, recognition, and so forth. When we consider intelligent agents, like robots, working as a team or cooperating with human beings, organizing their needs building certain reliable and stable relationships such as trust is a precondition for robot-robot and human-robot collaboration in complex and uncertain environments
 
