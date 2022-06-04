@@ -36,9 +36,9 @@ Comparing with the natural intelligent agent, when the artificial intelligence (
 </div>
 
 ### Demonstration
-> The simulation of two heterogeneous robot teams cooperative achieving tasks in USAR with Unity:
+The simulation of two heterogeneous robot teams cooperative achieving tasks in USAR with Unity:
     <div align = center>
-    <img src="https://github.com/RickYang2016/RNE-Agent-Trust-Model-SMC2021/blob/main/figures/setting.gif" height="200" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.gif" height="200" alt="Hopper-V2 3SABC Video"/>
+    <img src="https://github.com/RickYang2016/RNE-Agent-Trust-Model-SMC2021/blob/main/figures/setting.gif" height="210" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.gif" height="210" alt="Hopper-V2 3SABC Video"/>
     </div>
 
 
