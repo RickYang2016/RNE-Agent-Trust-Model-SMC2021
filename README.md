@@ -32,7 +32,7 @@ Comparing with the natural intelligent agent, when the artificial intelligence (
 ## Numerical Evaluation
 ### Experiment Setting
 <div align = center>
-    <img src="https://github.com/RickYang2016/RNE-Agent-Trust-Model-SMC2021/blob/main/figures/REN_Trust.png" height="230" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.png" height="230" alt="Hopper-V2 3SABC Video"/>
+    <img src="https://github.com/RickYang2016/RNE-Agent-Trust-Model-SMC2021/blob/main/figures/REN_Trust.png" height="235" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.png" height="235" alt="Hopper-V2 3SABC Video"/>
 </div>
 
 ### Demonstration
