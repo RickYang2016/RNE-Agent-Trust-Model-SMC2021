@@ -7,7 +7,7 @@ Cooperation in multi-agent and multi-robot systems can help agents build various
 Similar to the information entropy, we define the needs entropy as the difference or distance of needs distribution between agents in a specific scenario for an individual or groups. Here, needs of the robots are regarded as their motivations. From a statistical perspective, the RNE can be regarded as calculating the similarity of high-dimensional samples from the robot needs vector. 
 > A lower RNE value means that the trust level between agents or groups is higher because their needs are well-aligned and there is low difference (distance) in their needs distributions. Similarly, a higher RNE value will mean that the needs distributions are diverse, and there exists a low trust level between the agent or groups because of their misalignment in their motivations, which are similar to each other.
 
-<img src="http://latex.codecogs.com/svg.latex? Supposing the needs' vectors of "/>
+<img src="http://latex.codecogs.com/svg.latex? Supposing~the~needs'~vectors~of~R_1 "/>
 
 <div align = center>
 <img src="http://latex.codecogs.com/svg.latex?\mathop{\mathbb{T}(R_1||R_2)} = \sum_{k=1}^{j} D_{R_{1_k}} \cdot \log \frac{D_{R_{1_k}}}{D_{R_{2_k}}}"/>
