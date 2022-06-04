@@ -23,9 +23,9 @@ Similar to the information entropy, we define the needs entropy as the differenc
 <img src="http://latex.codecogs.com/svg.latex?D_{R_{1/2}} \ni \mathop{d_{1k/2k}} = n_{1k/2k} \cdot {w_k} / \sum_{k=1}^{j} (n_{1k/2k} \cdot {w_k})"/>
 </div>
 
-> Note: Please check the [paper](https://ieeexplore.ieee.org/abstract/document/9659187) for more details about the definitions of Trust between Agent and Groups and Trust between Groups.
+Note: Please check the [paper](https://ieeexplore.ieee.org/abstract/document/9659187) for more details about the definitions of Trust between Agent and Groups and Trust between Groups.
 
-> A lower RNE value means that the trust level between agents or groups is higher because their needs are well-aligned and there is low difference (distance) in their needs distributions. Similarly, a higher RNE value will mean that the needs distributions are diverse, and there exists a low trust level between the agent or groups because of their misalignment in their motivations, which are similar to each other.
+> Specifically, a lower RNE value means that the trust level between agents or groups is higher because their needs are well-aligned and there is low difference (distance) in their needs distributions. Similarly, a higher RNE value will mean that the needs distributions are diverse, and there exists a low trust level between the agent or groups because of their misalignment in their motivations, which are similar to each other.
 
 Comparing with the natural intelligent agent, when the artificial intelligence (AI) agent becomes more advanced and smart, it also represents more complex, multilayered, and diverse needs in evolution such as individual security, health, friendship, love, respect, recognition, and so forth. When we consider intelligent agents, like robots, working as a team or cooperating with human beings, organizing their needs building certain reliable and stable relationships such as trust is a precondition for robot-robot and human-robot collaboration in complex and uncertain environments
 
