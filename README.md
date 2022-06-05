@@ -48,7 +48,7 @@ The simulation of two heterogeneous robot teams cooperative achieving tasks in U
     <img src="https://github.com/RickYang2016/RNE-Agent-Trust-Model-SMC2021/blob/main/figures/setting.gif" height="210" width="374" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.gif" height="210" width="374" alt="Hopper-V2 3SABC Video"/>
 </div>
 
-
+* Note: Check the [Link](https://youtu.be/0hdcUs6gTic) for the full video.
 
 ## Conclusion
 
